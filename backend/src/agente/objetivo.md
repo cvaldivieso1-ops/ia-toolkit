@@ -23,6 +23,4 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 
 ## Lo que el equipo editorial quiere cambiar
 
-(Este bloque lo escribe el equipo. Ejemplos: priorizar la brecha por sexo; incluir siempre la tasa de
-informalidad; cerrar con una frase sobre qué no permite saber la ENE; usar un titular informativo sin verbo
-en pasado. Una regla, un efecto medible.)
+El titular debe destacar el nivel de la tasa y la bajada debe aportar un dato nuevo, no repetir lo dicho en el titular
